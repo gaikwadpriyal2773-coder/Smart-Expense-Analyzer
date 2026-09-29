@@ -47,3 +47,12 @@ The application analyzes expenses across:
 
 ```bash
 git clone <your-repository-url>
+
+<img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/4d097bf8-336d-45a1-b086-4c0e16b8b680" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8270bb1a-a619-4960-810a-442cccf13808" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3b6bc219-0cf4-447c-859e-85fb91dc81aa" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c9c3ad17-0639-49d6-bb6e-767557036c85" />
+
+
+
+
