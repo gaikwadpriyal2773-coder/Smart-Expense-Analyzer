@@ -2,6 +2,12 @@
 
 Smart Expense Analyzer is a simple web-based application developed using Python and Streamlit. It helps users analyze their monthly expenses, compare spending with their budget, calculate savings, visualize expense distribution, and receive smart spending suggestions.
 
+## 🌐 Live Application
+
+Try the Smart Expense Analyzer here:
+
+[Launch Smart Expense Analyzer](https://smart-expense-analyzer-gbelndh9jyeb3pmheudgvh.streamlit.app/)
+
 ## ✨ Features
 
 - Enter monthly income and budget
